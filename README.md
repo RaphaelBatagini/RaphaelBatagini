@@ -9,6 +9,7 @@ You can find more about what I'm studing in my articles:
 ## :trophy: Personal achievements
 1. I built a beautiful family :family_man_woman_girl_boy:
 2. I was co-author in a <a href="https://editorabrasport.com.br/jornada-kanban-na-pratica" target="_blank">book about the Kanban methodology</a> with people who are references on the subject here in Brazil :book:
+3. Postgraduate in systems management and development :man_student:
 
 ## :man_student: Certifications
 1. <a href="https://www.scrumalliance.org/community/profile/rbatagini" target="_blank">Certified ScrumMaster by ScrumAlliance</a>
