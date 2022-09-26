@@ -6,6 +6,13 @@ You can find more about what I'm studing in my articles:
 
 <a href="https://medium.com/@raphaelbatagini" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
+## :trophy: Personal achievements
+1. I built a beautiful family :family_man_woman_girl_boy:
+2. I was co-author in a <a href="https://editorabrasport.com.br/jornada-kanban-na-pratica" target="_blank">book about the Kanban methodology</a> with people who are references on the subject here in Brazil :book:
+
+## :man_student: Certifications
+1. <a href="https://www.scrumalliance.org/community/profile/rbatagini" target="_blank">Certified ScrumMaster by ScrumAlliance</a>
+
 ## :briefcase: What do I work with
 ### Favorite IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -73,6 +80,8 @@ You can find more about what I'm studing in my articles:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📫 Where you can find me:
+### 📫 Where you can find me
 <a href="https://www.linkedin.com/in/raphael-batagini/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.meetup.com/pt-BR/members/214817916/" target="_blank">![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)</a>
+<a href="https://www.facebook.com/rapha.batagini/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.instagram.com/raphaelbatagini/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
