@@ -16,10 +16,10 @@ You can find more about what I'm studing in my articles:
 
 ## 📫 Where you can find me
 <a href="https://www.linkedin.com/in/raphael-batagini/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.hackerrank.com/raphabatagini" target="_blank">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://www.meetup.com/pt-BR/members/214817916/" target="_blank">![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)</a>
 <a href="https://www.facebook.com/rapha.batagini/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/raphaelbatagini/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.hackerrank.com/raphabatagini" target="_blank">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 ## :briefcase: What do I work with
 ### Favorite IDE
