@@ -9,10 +9,19 @@ You can find more about what I'm studing in my articles:
 ## :trophy: Personal achievements
 1. I built a beautiful family :family_man_woman_girl_boy:
 2. I was co-author in a <a href="https://editorabrasport.com.br/jornada-kanban-na-pratica" target="_blank">book about the Kanban methodology</a> with people who are references on the subject here in Brazil :book:
-3. Postgraduate in systems management and development :man_student:
+3. I have more then 10 years of experience in systems development :calendar:
 
-## :man_student: Certifications
+## :man_student: Academic formation
+1. Computer Technician;
+2. Technologist in Systems Analysis and Development;
+3. Specialist Lato Sensu in Systems Development and Management (Post-Graduation).
+
+## :scroll: Certifications
 1. <a href="https://www.scrumalliance.org/community/profile/rbatagini" target="_blank">Certified ScrumMaster by ScrumAlliance</a>
+2. Scrum Foundation Professional Certificate by CertiProf
+3. <a href="https://www.credential.net/e8ac82d9-6ac5-493f-bd9c-44bbd8c9af02#gs.dj2icv" target="_blank">Executive Certification: Business Development, Leadership and Networking by FIA Online</a>
+4. <a href="https://www.credential.net/f7fc1d8b-10cb-4de6-aedb-45f1ce08daf9#gs.6s7bg8" target="_blank">Professional, Emotional and Technological Skills for Times of Change by Pontifical Catholic University of Rio Grande do Sul</a>
+5. <a href="https://cursos.alura.com.br/user/rbatagini/career/agilista/certificate" target="_blank">Agilist Carrer by Alura</a>
 
 ## 📫 Where you can find me
 <a href="https://www.linkedin.com/in/raphael-batagini/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
