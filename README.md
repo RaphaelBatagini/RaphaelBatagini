@@ -1,6 +1,6 @@
 # Raphael Batagini
 
-Engineering Lead focused on distributed SaaS systems, operational excellence, architecture modernization, and AI-assisted engineering workflows.
+Technical Lead focused on distributed SaaS systems, operational excellence, architecture modernization, and AI-assisted engineering workflows.
 
 Currently working on US Payroll and FinTech systems at Deel, helping evolve critical backend services in a high-scale distributed environment.
 
